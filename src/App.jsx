@@ -120,7 +120,7 @@ export default function App() {
         </div>
         <div className="header-status">
           <div className="status-dot" />
-          Powered by Gemini AI
+          Powered by Groq API
         </div>
       </header>
 
